@@ -57,4 +57,30 @@
 		- Base: "Master"
 		- Compara: Debe ser tu rama en que estabas trabajando
 	- c) La persona secundaria que esta trabajando con tigo en tu programa va a revisar y aprovar lo(Solamente si functiona) 
+	
+	
+	
+Basic patter kapag coding
+  - 1
+ 	 - a) Buksan Github
+	 - b) Pumunta sa branch makikipagtulungan ka sa.
+	 - c) Gawin ang isang Pull Request -
+			- Base: Branch ikaw ay nagtatrabaho sa
+			- Ihambing ang: Master
+  - 2.
+	- a) Buksan ang Android Studio
+	- b) Hilahin mula sa Branch ikaw Work Sa
+  - 3.
+	- a) Magtakda workable layunin.
+		- Ang Mas maliit ang Hakbang ang mas mahusay na
+	- b) Code patungo sa layuning
+	- c) Debug code
+	- d) Patuloy na itulak sa mga sangay ikaw ay nagtatrabaho sa. Huwag mawalan ng iyong trabaho.
+	- e) HINDI PUMUNTA SA HAKBANG 4 MAY PAGKAKAMALI SA CODE
+  - 4.
+	- a) Buksan Github
+	- b) Gawin ang isang Pull Paghiling
+		- Base: Master
+		- Ihambing ang: Branch ikaw ay workin gon.
+	- c) Ang pangalawang tao sa iyong code ay upang suriin ito at maaprubahan ito (KUNG AT LAMANG KUNG ito talagang gumagana)
 		
