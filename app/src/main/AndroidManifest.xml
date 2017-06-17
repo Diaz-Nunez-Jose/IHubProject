@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".home" />
-        <activity android:name=".map"></activity>
+        <activity android:name=".map" />
+        <activity android:name=".todo"></activity>
     </application>
 
 </manifest>
