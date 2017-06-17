@@ -16,14 +16,14 @@
  	- a) Open Github
 	- b) Go to the branch you will work on.
 	- c) Do a Pull Request -
-		Base: Branch you are working on
-		Compare: Master
+		- Base: Branch you are working on
+		- Compare: Master
  - 2. 
 	- a) Open Android Studio
 	- b) Pull from the Branch you are Work On
  - 3. 
 	- a) Set workable goal.
-		The Smaller the Step the better
+		- The Smaller the Step the better
 	- b) Code towards goal
 	- c) Debug goal
 	- d) Continually push to the branch you are working on. Don't lose your work.
@@ -31,6 +31,6 @@
  - 4.
 	- a) Open Github
 	- b) Do a Pull Request
-		Base: Master
-		Compare: Branch you were workin gon.
+		- Base: Master
+		- Compare: Branch you were workin gon.
 	- c) The secondary person on your code is to review it and approve it(IF AND ONLY IF IT ACTUALLY WORKS)
