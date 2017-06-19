@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IHub.iml" filepath="$PROJECT_DIR$/IHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/IHubProject.iml" filepath="$PROJECT_DIR$/IHubProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
