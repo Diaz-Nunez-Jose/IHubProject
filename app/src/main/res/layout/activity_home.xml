@@ -6,4 +6,27 @@
     android:layout_height="match_parent"
     tools:context="com.ihub.ihub.home">
 
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_dialog_map"
+        tools:layout_editor_absoluteX="46dp"
+        tools:layout_editor_absoluteY="56dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="57dp"
+        android:layout_height="51dp"
+        app:srcCompat="@android:drawable/list_selector_background"
+        tools:layout_editor_absoluteX="221dp"
+        tools:layout_editor_absoluteY="218dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_menu_preferences"
+        tools:layout_editor_absoluteX="46dp"
+        tools:layout_editor_absoluteY="381dp" />
 </android.support.constraint.ConstraintLayout>
